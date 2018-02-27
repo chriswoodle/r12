@@ -1,0 +1,15 @@
+{
+  "name": "r12",
+  "version": "1.0.0",
+  "description": "Control R12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Woodle",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "request": "^2.83.0"
+  }
+}
